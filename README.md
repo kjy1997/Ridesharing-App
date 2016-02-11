@@ -16,8 +16,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [ ] messages
-   - [ ] payment
-   - [ ] 
+- [ ] payment
+- [ ] 
 - [ ] 
 
 The following **additional** features are implemented:
